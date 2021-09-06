@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/johnpapa/node-hello/issues"
   },
-  "homepage": "https://github.com/johnpapa/node-hello#readme"
+  "homepage": "https://github.com/johnpapa/node-hello#readme",
+  "devDependencies": {
+    "mocha": "^9.1.1",
+    "mocha-junit-reporter": "^2.0.0",
+    "should": "^13.2.3",
+    "supertest": "^6.1.6"
+  }
 }
